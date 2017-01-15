@@ -1,0 +1,6 @@
+The A.L.I.C.E. AIML files in aiml-en-us-foundation-alice should be loaded in the following order:
+
+    First load the Safe reduction files reducation0.safe.aiml,...,reduction4.safe.aiml and reductions.update.aiml.
+    Second, load the Mindpixel files mp0.aiml,...,mp6.aiml.
+    Then load all remaining AIML files.
+    Pandorabots will always load the file update.aiml as the last file. 
