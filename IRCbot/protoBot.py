@@ -9,7 +9,7 @@ import socket
 
 def main():
   
-  # Parsing Commandline Parameters
+  # Parsing Commandline Parameters.
 
   if len(sys.argv) != 4:
     
