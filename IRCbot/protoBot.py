@@ -12,7 +12,6 @@ def main():
   # Parsing Commandline Parameters.
 
   if len(sys.argv) != 4:
-    
     print 'Usage: ./protoBot.py HOST PORT CHANNEL'
     sys.exit()
 
@@ -27,7 +26,6 @@ def main():
   # Setting Bot Parameters
   
   PASS = 'none'
-
   BOTNICK = 'Test'
   IDENT = 'Test'
   REALNAME = 'Just a framework'
