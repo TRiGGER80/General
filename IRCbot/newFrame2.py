@@ -3,7 +3,7 @@
 
 import socket
 
-HOST = 'raspberrypi'
+HOST = 'devPi'
 PORT = 6667
 PASS = 'none'
 NICK = 'Test'
